@@ -1,3 +1,4 @@
-print("hello Python!")
+print("hello Welcome")
 name = input("What is your name?")
-print("Hello " + name)
+print("Hello " + name +", Nice to meet you!")
+print("Press Enter key to Exit!")
