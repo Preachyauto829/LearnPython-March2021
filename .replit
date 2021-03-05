@@ -1,2 +1,2 @@
 run = "python basic/hello.py"
-    language = "python"
+    language = "python3"
