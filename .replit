@@ -1,2 +1,2 @@
-run = "python basic/loop.py"
+run = "python basic/loopsum100.py"
     language = "python3"
