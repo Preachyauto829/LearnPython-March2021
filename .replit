@@ -1,2 +1,2 @@
-run = "python basic/fib.py"
+run = "python basic/whileloop.py"
     language = "python3"
