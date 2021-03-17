@@ -1,2 +1,2 @@
-run = "python basic/loops.py"
+run = "python basic/test.py"
     language = "python3"
